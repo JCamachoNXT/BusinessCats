@@ -45,3 +45,4 @@ Built with Visual Studio 2015 and the Lync 2013 SDK.
 - WindowsIcons: ModernUIIcons.com
 
 ## CHANGES
+nothing recently actually. Some dice changes
