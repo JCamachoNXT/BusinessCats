@@ -43,3 +43,5 @@ Built with Visual Studio 2015 and the Lync 2013 SDK.
 - MahApps.Metro: http://mahapps.com/
 - Entypo: Daniel Bruce
 - WindowsIcons: ModernUIIcons.com
+
+## CHANGES
